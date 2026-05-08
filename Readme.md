@@ -402,13 +402,6 @@ Feel free to:
 - 🍴 Fork the project
 - 📢 Share feedback
 
----
-
-# 📬 Contact
-
-📧 Add your email here  
-🔗 Add your LinkedIn here  
-💻 Add your GitHub profile here
 
 ---
 
